@@ -3,7 +3,7 @@ const Square =( {colorValue} )=>{
         <section
             className="square"
             style={{ backgroundColor: colorValue }}>
-                <p>{colorValue ? colorValue: "Pusta wartość"}</p>
+                <p>{colorValue ? colorValue: "Nic tu nie ma hahahahahha"}</p>
            
         </section>
     )
